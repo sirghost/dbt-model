@@ -3,7 +3,7 @@ snowflake-dw:
   outputs:
     dev:
       type: snowflake
-      account: abc.us-central1.gcp
+      account: pd56356.us-central1.gcp.us-central1.gcp
 
       # User/password auth
       user: AIRBYTE_USER
